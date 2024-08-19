@@ -22,7 +22,7 @@ img{
 
 @media screen and (max-width:430px) {
     #show{
-        grid-template-columns:auto;
+        grid-template-columns:auto 40%;
     }
     img{
         width: 150px;
