@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color:yellow ;
 }
 #show{
     align-items: center;
@@ -22,7 +22,7 @@ img{
 
 @media screen and (max-width:430px) {
     #show{
-        grid-template-columns:auto auto;
+        grid-template-columns:auto;
     }
     img{
         width: 150px;
